@@ -13,3 +13,4 @@ The instructor during the session was Mr. Shaurya Sinha (a Data Analyst at jio.)
 <li><a href="https//www.instagram.com/shape.ai/?hl=en">Instagram</a>
 <li><a href="https://www.youtube.com/channel/UcTUvDLTW9meuDXWcbmlSPdA">Youtube</b>
 <li><a href ="https://github.com/shapeai">Github</a>
+<img scr="https://github.com/ShapAl/PYTHON.AND.DATA-ANALYTICS/blob/main/WebD%20poster.png">

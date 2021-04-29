@@ -1,5 +1,4 @@
-# abhishekanand-02.github.io
-WEB-DEV BOOTCAMP SHAPEAL
+# WEB-DEV BOOTCAMP SHAPEAL
 Hi I made this project during the 7 days Free Bootcamp,conducted by <b>SHAPEAL</b>.
 The instructor during the session was Mr. Shaurya Sinha (a Data Analyst at jio.).I got to learn a lot during these 7 days and it was amazing learning with SHAPEAL.
 <br>I got to have hands on experience on:
